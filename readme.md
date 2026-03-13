@@ -57,7 +57,7 @@ Make sure you have Python 3 installed.
 
 Clone the repository:
 
-git clone https://github.com/your-username/blackjack-game.git
+git clone [https://github.com/your-username/blackjack-game.git](https://github.com/gaurangg477-afk/DAY-11-BLACKJACK-)
 cd blackjack-game
 
 
